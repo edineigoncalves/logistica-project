@@ -6,16 +6,16 @@ Calculadora de frete, por quilo.
 
 Windows 10
 
-### Installing
+### Instalação
 
-1 - Criação de tabela truckage
-2 - Informar dados de conexão com banco no arquivo application.properties
+* 1 - Criação de tabela truckage
+* 2 - Informar dados de conexão com banco no arquivo application.properties
 
 ## Deploy
 
 Gerar war do servidor de aplicação.
 
-## Versioning
+## Versão
 
 Versão inicial 1.0
 
